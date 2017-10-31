@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-config-order",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "flatten": "^1.0.2"
+  },
+  "peerDependencies": {
+    "stylelint": "*",
+    "stylelint-order": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolzjy/stylelint-config-order.git"
+  },
+  "author": "Zhang Visper <i@zjy.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coolzjy/stylelint-config-order/issues"
+  },
+  "homepage": "https://github.com/coolzjy/stylelint-config-order#readme"
+}
